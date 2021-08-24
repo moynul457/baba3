@@ -164,7 +164,7 @@ def login():
 
 		print (logo)
 
-		print (R + '◈━━━━▷' + S + ' Login With ✬👽🐲  ⓕᗩ𝒸𝐞вσＯҜ  ♞✎✬ ' + R + '◁━━━━◈')
+		print (R loho)
 
 		print
 

@@ -256,9 +256,9 @@ def menu():
 
 	print (logo)
 
-	print (S + '[☆] ' + G + 'ID Name: ' + R + a['name'])
+	print (S + ' ' + G + 'ID Name: ' + R + a['name'])
 
-	print (S + '[☆] ' + G + 'User ID: ' + R + a['id'])
+	print (S + ' ' + G + 'User ID: ' + R + a['id'])
 
 	print
 
@@ -266,15 +266,15 @@ def menu():
 
 	print
 
-	print (S + '[' + P + '☞1' + S + ']' + S + ' Fast Cloning New Update')
+	print (S + '[' + P + '1' + S + ']' + S + ' Fast Cloning New Update')
 
-	print (S + '[' + P + '☞2' + S + ']' + S + ' Update Aadi Tech Tool')
+	print (S + '[' + P + '2' + S + ']' + S + ' Update Aadi Tech Tool')
 
-	print (S + '[' + P + '☞3' + S + ']' + S + ' Aadi Tech WhatsApp Group')
+	print (S + '[' + P + '3' + S + ']' + S + ' Aadi Tech WhatsApp Group')
 
-	print (S + '[' + Y + '☞4' + S + ']' + G + ' Log Out')
+	print (S + '[' + Y + '4' + S + ']' + G + ' Log Out')
 
-	print (S + '[' + Y + '☞0' + S + ']' + R + ' Exit')
+	print (S + '[' + Y + '0' + S + ']' + R + ' Exit')
 
 	print
 
@@ -286,7 +286,7 @@ def menu():
 
 def mb():
 
-	bm=raw_input(W + ' ✬ⓕⓐⓒⓔⓑⓞⓞⓚ✬   ')
+	bm=raw_input(W + '    ')
 
 	if bm =='':
 

@@ -164,7 +164,7 @@ def login():
 
 		print (logo)
 
-		print (R loho)
+		print (logo)
 
 		print
 

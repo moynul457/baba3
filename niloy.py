@@ -124,11 +124,11 @@ logo='''                                                                        
 
 \033[1;96m
 
-\033[1;91m☞ Auther     : NILOY AHMED
+\033[1;91m Auther     : NILOY AHMED
 
-\033[1;92m☞ WhatsApp   : 01315870358
+\033[1;92m WhatsApp   : 01315870358
 
-\033[1;95m☞ Facebook    : https://www.facebook.com/profile.php?id=100059574027327
+\033[1;95m Facebook    : https://www.facebook.com/profile.php?id=100059574027327
 
 \033[1;96m
 

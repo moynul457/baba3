@@ -184,7 +184,7 @@ def login():
 
 		    st.close()
 
-		    print (S + '[☆]' + Y + ' Login successfull 100% ✓')
+		    print (S + '' + Y + ' Login successfull 100% ')
 
 		    os.system('xdg-open https://m.facebook.com/Akyoutuber06')
 

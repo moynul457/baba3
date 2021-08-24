@@ -124,7 +124,7 @@ logo='''                                                                        
 
 \033[1;96m
 
-\033[1;91m☞ Auther     : NILOY AHMED✅
+\033[1;91m☞ Auther     : NILOY AHMED
 
 \033[1;92m☞ WhatsApp   : 01315870358
 
